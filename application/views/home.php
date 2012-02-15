@@ -6,6 +6,6 @@
   <p>What’s up chicken butt?</p>
 </div>
 <div data-role="footer">
-  <h4>&copy; Matt Reider 2011</h4>
+  <h4>&copy; Arthur 2011</h4>
 </div><!-- /footer -->
 </section>
