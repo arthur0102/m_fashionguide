@@ -5,7 +5,7 @@
 
   <div data-role="content">
     <p>We are psyched you are here!</p>
-  <p><a href="#home">Go to the second page!</a></p>
+  <p><a href="/home/">Go to the second page!</a>x</p>
   </div><!-- /content -->
 
   <div data-role="footer">
